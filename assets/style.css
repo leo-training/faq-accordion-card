@@ -166,7 +166,7 @@ p {
     content: "";
     display: block;
     position: absolute;
-    background-image: url(/images/illustration-box-desktop.svg);
+    background-image: url(../images/illustration-box-desktop.svg);
     background-size: 150px 150px;
     background-position: bottom right;
     background-repeat: no-repeat;
@@ -189,7 +189,7 @@ p {
     content: "";
     display: block;
     position: absolute;
-    background-image: url(/images/bg-pattern-desktop.svg);
+    background-image: url(../images/bg-pattern-desktop.svg);
     background-repeat: no-repeat;
     width: 100%;
     min-width: 966px;
